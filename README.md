@@ -8,7 +8,7 @@
 
  status.wating()
 
-### When you would like turn off:
+### Turn off:
  status.stop()
 
 ## Licence:
